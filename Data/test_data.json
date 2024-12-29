@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "I hate you so much!",
+    "label": "toxic"
+  },
+  {
+    "id": 2,
+    "text": "Have a great day!",
+    "label": "non_toxic"
+  },
+  {
+    "id": 3,
+    "text": "You are disgusting.",
+    "label": "toxic"
+  },
+  {
+    "id": 4,
+    "text": "This is wonderful news.",
+    "label": "non_toxic"
+  }
+]
