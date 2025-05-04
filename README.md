@@ -1,6 +1,6 @@
 # LLM Evaluation Framework
 
-This repository provides a comprehensive framework for evaluating Large Language Models (LLMs) using various metrics such as toxicity, bias, and factuality. The framework is built to easily incorporate Hugging Face models and datasets, facilitating streamlined inference and evaluation workflows.
+A framework for evaluating Large Language Models (LLMs) using various metrics such as toxicity, bias, and factuality. The framework is built to easily incorporate Hugging Face models and datasets, facilitating streamlined inference and evaluation workflows.
 
 ## Table of Contents
 - [Overview](#overview)
